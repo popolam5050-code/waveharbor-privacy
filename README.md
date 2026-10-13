@@ -1,2 +1,1 @@
-# waveharbor-privacy
-Public privacy policy and account deletion information for WaveHarbor.
+Public privacy and deletion pages for WaveHarbor. No application source, credentials or user data are included.
